@@ -1,0 +1,31 @@
+#######################################################################################################################################
+<poster>HackerMil</poster>
+<fanart>http://farm4.staticflickr.com/3678/10216833154_eab0f31a67_o.png</fanart>
+#######################################################################################################################################
+
+<info>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]ALL COMEDY ALL THE TIME![/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://farm8.staticflickr.com/7436/10216924005_94fb74c943_o.png</thumbnail>
+</info>
+
+##############################################################################################################################
+
+
+<dir>
+<name>[COLOR aqua]Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Comedy%20Central/Directories/Movies.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7436/10216924005_94fb74c943_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Shows[/COLOR] [COLOR red]Coming Soon[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Comedy%20Central/Directories/Shows.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7436/10216924005_94fb74c943_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Stand-Up[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Comedy%20Central/Directories/Stand-Up.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7436/10216924005_94fb74c943_o.png</thumbnail>
+</dir>
+

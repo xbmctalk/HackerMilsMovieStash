@@ -1,0 +1,53 @@
+#######################################################################################################################################
+<poster>HackerMil</poster>
+<fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
+#######################################################################################################################################
+
+
+<popup>
+<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
+<popImage>http://farm3.staticflickr.com/2851/10218170123_bb90f51c7e_o.png</popImage>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</popup>
+
+
+
+
+##############################################################################################################################
+
+
+<dir>
+<name>[COLOR lime]ALL[/COLOR] [COLOR aqua]Theatre Releases[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/ALL.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]HD and 1080P[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/HD%20and%201080P.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]DVD[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/DVD.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]R6[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/R6.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]TS[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/TS.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]CAM[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/Cams.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>

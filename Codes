@@ -1,0 +1,53 @@
+############################## CODES ###########################################
+
+
+- LINK - 
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+- MESSAGE -
+<info>
+<message></message>
+<thumbnail></thumbnail>
+</info>
+
+- DIRECTORY- 
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+- POP UP -
+<popup>
+<name></name>
+<popImage></popImage>
+<thumbnail></thumbnail>
+</popup>
+
+- MULTI-LINK -
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+-SPECIFIC-                                                                                  REPLACE  
+Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_video&videoid=73391453
+
+
+Static Noobroom ->
+http://185.8.196.237/?1287&s=15
+http://85.12.8.4/index.php?file=1287&start=0&hd=0&auth=0&type=flv&tv=0
+
+#########################################################################

@@ -1,0 +1,51 @@
+#######################################################################################################################################
+<poster>HackerMil</poster>
+<fanart>http://i1367.photobucket.com/albums/r795/HackerMil/Fanart/VIP-Fanart_zps661cd758.jpg</fanart>
+#######################################################################################################################################
+
+
+<popup>
+<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
+<popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</popup>
+
+<info>
+<message>[COLOR red]New Changes ----------------------------------------------------->[/COLOR] [COLOR yellow]INTRODUCING "VIP User Channels! Become a playlist builder! All VIP viewers will now have there own seperate directory to build with their movies. My hardcore VIPs get additional perks, order is based on VIP pass duration from longest to shortest also including due date so if your getting closer to the bottom you'll know when to reload your pass. ENJOY!  H.M.[/COLOR]</message>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIPNEW.png</thumbnail>
+</info>
+
+
+########################################################################################################################
+
+
+<item>
+<name>[COLOR aqua]Mash's Channel[/COLOR] [COLOR lime]LIFETIME MEMBER[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/VIP/mash.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<username>mash2k3</username>
+</item>
+
+<item>
+<name>[COLOR aqua]Hack's Channel[/COLOR] [COLOR lime]LIFETIME MEMBER[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/VIP/mash.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<username>hackermil</username>
+</item>
+
+
+<item>
+<name>[COLOR aqua]user's Channel[/COLOR] [COLOR lime]LIFETIME MEMBER[/COLOR]</name>
+<link>https://github.com/xbmctalk/HackerMilsMovieStash/raw/master/VIP/mash.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<username>user</username>
+</item>
+
+
+
+
+
+##################################################################################################
+
+
+
